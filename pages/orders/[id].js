@@ -14,14 +14,14 @@ const Order = () => {
       <div className={styles.left}>
         <div className={styles.row}>
           <table className={styles.table}>
-            <tr className={styles.tr}>
+            <tr className={styles.trTitle}>
               <th>Order ID</th>
               <th>Customer</th>
               <th>Address</th>
 
               <th>Total</th>
             </tr>
-            <tr>
+            <tr className={styles.tr}>
               <td>
                 <span className={styles.id}>132443434</span>
               </td>
@@ -29,9 +29,7 @@ const Order = () => {
                 <span className={styles.name}>Cian Butler</span>
               </td>
               <td>
-                <span className={styles.address}>
-                  1738 Fake Street, Toronto
-                </span>
+                <span className={styles.address}>1738 Fake St, Toronto</span>
               </td>
 
               <td>
