@@ -1,3 +1,21 @@
+## This is a work in progress!!
+
+## Premise 
+
+This is a basic food (pizza) ordering web app. 
+
+It is made with Next.js and will include order and payment functionality. 
+
+## Deployment 
+
+A working version of this web app can be found [here.](https://pizza-restaurant-six.vercel.app/)
+
+Be sure to check out the range of pages such as : 
+[produt page](https://pizza-restaurant-six.vercel.app/product/1)
+[cart](https://pizza-restaurant-six.vercel.app/cart)
+[orders](https://pizza-restaurant-six.vercel.app/orders/21)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
